@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="DemobellatrixHA">
+      <change afterPath="$PROJECT_DIR$/allure-results/2198288b-5f10-4e03-91c3-7c558c38ec4a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/574f0b6e-6648-45a2-8529-d1b157aa71d5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/71172b8e-eaad-4de3-8b85-16d950d2747d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/88f15445-1193-491b-ab42-7b6ff5e13798-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/999f0b89-fb06-484c-a690-a65730576d75-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b9e59bb2-094e-4667-94fa-c553867c81fa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c9da8907-0bdf-4f4c-b1fc-7ce2231615ac-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d406af78-9c41-4bab-8b53-b0e6ce1ab678-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e67a7d74-6567-40f4-9997-3b4ad290f8b7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fa6fa849-5913-4f4e-a6a3-3018a343bf02-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/FeatureCart.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/FeatureCart.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2YqCu9QjS2Ewjm2sOroZ5RJ2a7b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/BirsenSelviCoskun/OneDrive - Everest Bildungsinstitut UG/Desktop/Neuer Ordner1/de.amazon&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Haldun35\IdeaProjects\DemosBellatrix_HA\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RunnerCart (1)">
+    <configuration name="Scenario: Add to Cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureDeneme.feature" />
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="DemosBellatrix_HA" />
+      <option name="NAME_FILTER" value="^Add to Cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add to Cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add to Cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerCart (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemosBellatrix_HA_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunnerCart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemosBellatrix_HA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunnerCart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerDenemeCart (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemosBellatrix_HA_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunnerDenemeCart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerDenemeCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemosBellatrix_HA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunnerDenemeCart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunnerCart (1)" />
+        <item itemvalue="TestNG.RunnerDenemeCart (1)" />
+        <item itemvalue="TestNG.RunnerDenemeCart" />
+        <item itemvalue="Cucumber Java.Scenario: Add to Cart" />
+        <item itemvalue="TestNG.RunnerCart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="" />
+      <created>1701243944585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701243944585</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Demobellatrix">
+      <created>1701770567337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701770567337</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DemobellatrixHA">
+      <created>1701853525449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701853525449</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DemobellatrixHA">
+      <created>1701867292376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701867292377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DemobellatrixHA">
+      <created>1701871575861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701871575861</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DemobellatrixHA">
+      <created>1701939563765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701939563765</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DemobellatrixHA">
+      <created>1701961508517</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701961508517</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DemobellatrixHA">
+      <created>1703149367010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703149367010</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Demobellatrix" />
+    <MESSAGE value="DemobellatrixHA" />
+    <option name="LAST_COMMIT_MESSAGE" value="DemobellatrixHA" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
