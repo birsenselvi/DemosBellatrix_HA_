@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="DemobellatrixHA">
-      <change afterPath="$PROJECT_DIR$/allure-results/2198288b-5f10-4e03-91c3-7c558c38ec4a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/574f0b6e-6648-45a2-8529-d1b157aa71d5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/71172b8e-eaad-4de3-8b85-16d950d2747d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/88f15445-1193-491b-ab42-7b6ff5e13798-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/999f0b89-fb06-484c-a690-a65730576d75-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b9e59bb2-094e-4667-94fa-c553867c81fa-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c9da8907-0bdf-4f4c-b1fc-7ce2231615ac-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d406af78-9c41-4bab-8b53-b0e6ce1ab678-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e67a7d74-6567-40f4-9997-3b4ad290f8b7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fa6fa849-5913-4f4e-a6a3-3018a343bf02-result.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/FeatureCart.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/FeatureCart.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -224,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703149367010</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="DemobellatrixHA">
+      <created>1703153171449</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703153171449</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +238,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Demobellatrix" />
+    <MESSAGE value="Update" />
     <MESSAGE value="DemobellatrixHA" />
     <option name="LAST_COMMIT_MESSAGE" value="DemobellatrixHA" />
   </component>
