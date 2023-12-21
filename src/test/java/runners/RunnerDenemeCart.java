@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
         features = {"src/test/resources/FeatureDeneme.feature"},
         glue = {"stepdefs"},
         plugin = {"pretty",
-                "target/cucumber/cucumber.json",
+                "json:target/cucumber/cucumber.json",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
                 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
         }
