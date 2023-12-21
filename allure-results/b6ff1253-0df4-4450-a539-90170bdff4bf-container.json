@@ -1,0 +1,1 @@
+{"uuid":"b6ff1253-0df4-4450-a539-90170bdff4bf","name":"Scenario: Add to Cart","children":["1f43f20e-98dc-4350-afbe-61da457397bf"],"befores":[],"afters":[{"name":"stepdefs.Hooks.teardown()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1702030120373,"stop":1702030120374}],"start":1702030116570,"stop":1702030120377}
