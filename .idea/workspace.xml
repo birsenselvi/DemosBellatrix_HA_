@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="Update" />
+    <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/allure-results/4c5f4878-57fe-463d-bbf2-27a94574cb60-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7d92cf8a-b3f9-4a36-bd41-70146d35bf63-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/88be04e3-ee3d-4712-8384-5bc9e093281b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9db6bd13-3064-489b-aaa2-06892ee270f4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d3a5461f-741d-46d3-b828-d093e4943e8d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d3fa71d7-0acf-48ea-8a52-19c6474673e3-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/Locator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/Locator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -334,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703514302082</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Update">
+      <created>1703514725514</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1703514725514</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

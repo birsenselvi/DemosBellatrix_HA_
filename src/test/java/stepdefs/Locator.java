@@ -13,7 +13,7 @@ public interface Locator {
     By lAddToCarts = By.xpath("//a[text()='Add to cart']");
 
     By lViewCart = By.xpath("//a[@title='View cart']");
-    By lAssertF9 = By.xpath("//a[text()='Falcon 9']");
+    By lAssertF9 = By.xpath("//a[text()='falcon 9']");
 
     By lProductNames = By.xpath("//h2");
     By lProduct = By.xpath("//ul[@class='products columns-4']//h2");
