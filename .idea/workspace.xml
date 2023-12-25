@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="DemobellatrixHA">
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/RunnerCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunnerCart.java" afterDir="false" />
+    <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/runners/RunnerDenemeCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunnerDenemeCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/RunnerSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunnerSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703156992958</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update">
+      <created>1703157163414</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703157163414</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,9 +268,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Demobellatrix" />
-    <MESSAGE value="Update" />
     <MESSAGE value="DemobellatrixHA" />
-    <option name="LAST_COMMIT_MESSAGE" value="DemobellatrixHA" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
