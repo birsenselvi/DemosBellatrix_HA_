@@ -60,7 +60,7 @@
       <recent name="C:\Users\BirsenSelviCoskun\OneDrive - Everest Bildungsinstitut UG\Desktop\DemosBellatrix_HA_\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RunnerCart (1)">
+  <component name="RunManager" selected="TestNG.RunnerSearch">
     <configuration name="Scenario: Add to Cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureDeneme.feature" />
@@ -83,23 +83,6 @@
     </configuration>
     <configuration name="RunnerCart (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DemosBellatrix_HA_" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="runners.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="runners" />
-      <option name="MAIN_CLASS_NAME" value="runners.RunnerCart" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RunnerCart" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DemosBellatrix_HA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="runners.*" />
@@ -149,13 +132,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunnerSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemosBellatrix_HA_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunnerSearch" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RunnerSearch" />
         <item itemvalue="TestNG.RunnerCart (1)" />
         <item itemvalue="TestNG.RunnerDenemeCart (1)" />
         <item itemvalue="TestNG.RunnerDenemeCart" />
         <item itemvalue="Cucumber Java.Scenario: Add to Cart" />
-        <item itemvalue="TestNG.RunnerCart" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703515585607</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Update">
+      <created>1703516389828</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1703516389828</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
