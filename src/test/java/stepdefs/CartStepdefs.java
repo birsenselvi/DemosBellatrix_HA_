@@ -37,7 +37,8 @@ public class CartStepdefs extends BaseSteps {
     public void theProductShouldBeInCart(String text) {
 
         //isTextVisible(text);
-        WebElement element = driver.findElement(lAssertF9);
+
+        WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(lAssertF9));
 
 
         Assert.assertEquals(element.getText().toLowerCase(), text);
