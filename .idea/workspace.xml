@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cea13cc-c654-4203-9874-470b18404888" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3c7fe4d0-aad3-45fd-9031-d6b217184796-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cd4dafd2-325d-4788-9a4b-fada4e0f466a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e71a9b31-7381-4991-bdf1-7c23248564bf-container.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -357,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703516389828</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Update">
+      <created>1703530356426</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1703530356426</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
